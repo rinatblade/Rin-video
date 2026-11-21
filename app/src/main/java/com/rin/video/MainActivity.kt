@@ -286,14 +286,14 @@ fun AppBody(
 
 @Composable
 fun LogoBadge(size: Int = 52) {
-    Box(
+    Image(
+        painterResource(R.drawable.ic_launcher_art),
+        null,
         Modifier
             .size(size.dp)
-            .clip(RoundedCornerShape((size * 0.28f).dp))
-            .background(Brush.linearGradient(listOf(Color(0xFF6D28D9), Color(0xFFDB2777), Color(0xFFF59E0B)))),
-    ) {
-        Image(painterResource(R.drawable.ic_launcher_foreground), null, Modifier.fillMaxSize(), contentScale = ContentScale.Crop)
-    }
+            .clip(RoundedCornerShape((size * 0.28f).dp)),
+        contentScale = ContentScale.Crop,
+    )
 }
 
 @Composable
