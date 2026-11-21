@@ -1,0 +1,40 @@
+Rubik.ttf|Rubik|ofl/rubik/Rubik%5Bwght%5D.ttf
+Montserrat.ttf|Montserrat|ofl/montserrat/Montserrat%5Bwght%5D.ttf
+Nunito.ttf|Nunito|ofl/nunito/Nunito%5Bwght%5D.ttf
+PTSans.ttf|PT Sans|ofl/ptsans/PT_Sans-Web-Regular.ttf
+PTSerif.ttf|PT Serif|ofl/ptserif/PT_Serif-Web-Regular.ttf
+Comfortaa.ttf|Comfortaa|ofl/comfortaa/Comfortaa%5Bwght%5D.ttf
+Pacifico.ttf|Pacifico|ofl/pacifico/Pacifico-Regular.ttf
+Lobster.ttf|Lobster|ofl/lobster/Lobster-Regular.ttf
+Caveat.ttf|Caveat|ofl/caveat/Caveat%5Bwght%5D.ttf
+MarckScript.ttf|Marck Script|ofl/marckscript/MarckScript-Regular.ttf
+Philosopher.ttf|Philosopher|ofl/philosopher/Philosopher-Regular.ttf
+RussoOne.ttf|Russo One|ofl/russoone/RussoOne-Regular.ttf
+Oswald.ttf|Oswald|ofl/oswald/Oswald%5Bwght%5D.ttf
+Jura.ttf|Jura|ofl/jura/Jura%5Bwght%5D.ttf
+Play.ttf|Play|ofl/play/Play-Regular.ttf
+Exo2.ttf|Exo 2|ofl/exo2/Exo2%5Bwght%5D.ttf
+FiraSans.ttf|Fira Sans|ofl/firasans/FiraSans-Regular.ttf
+OpenSans.ttf|Open Sans|ofl/opensans/OpenSans%5Bwdth%2Cwght%5D.ttf
+Lora.ttf|Lora|ofl/lora/Lora%5Bwght%5D.ttf
+PlayfairDisplay.ttf|Playfair Display|ofl/playfairdisplay/PlayfairDisplay%5Bwght%5D.ttf
+Neucha.ttf|Neucha|ofl/neucha/Neucha-Regular.ttf
+BadScript.ttf|Bad Script|ofl/badscript/BadScript-Regular.ttf
+AmaticSC.ttf|Amatic SC|ofl/amaticsc/AmaticSC-Regular.ttf
+YesevaOne.ttf|Yeseva One|ofl/yesevaone/YesevaOne-Regular.ttf
+Oranienbaum.ttf|Oranienbaum|ofl/oranienbaum/Oranienbaum-Regular.ttf
+Podkova.ttf|Podkova|ofl/podkova/Podkova%5Bwght%5D.ttf
+Unbounded.ttf|Unbounded|ofl/unbounded/Unbounded%5Bwght%5D.ttf
+Vollkorn.ttf|Vollkorn|ofl/vollkorn/Vollkorn%5Bwght%5D.ttf
+Spectral.ttf|Spectral|ofl/spectral/Spectral-Regular.ttf
+Arimo.ttf|Arimo|ofl/arimo/Arimo%5Bwght%5D.ttf
+Kurale.ttf|Kurale|ofl/kurale/Kurale-Regular.ttf
+Scada.ttf|Scada|ofl/scada/Scada-Regular.ttf
+Underdog.ttf|Underdog|ofl/underdog/Underdog-Regular.ttf
+Ledger.ttf|Ledger|ofl/ledger/Ledger-Regular.ttf
+KellySlab.ttf|Kelly Slab|ofl/kellyslab/KellySlab-Regular.ttf
+TenorSans.ttf|Tenor Sans|ofl/tenorsans/TenorSans-Regular.ttf
+StalinistOne.ttf|Stalinist One|ofl/stalinistone/StalinistOne-Regular.ttf
+RuslanDisplay.ttf|Ruslan Display|ofl/ruslandisplay/RuslanDisplay.ttf
+PTMono.ttf|PT Mono|ofl/ptmono/PTM55FT.ttf
+PressStart2P.ttf|Press Start 2P|ofl/pressstart2p/PressStart2P-Regular.ttf
